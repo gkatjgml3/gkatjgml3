@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 <a href="https://youtube.com/playlist?list=OLAK5uy_l_VVrLSICavqs7GFiF4B5_N9E9SPtnNf8&si=Sx31WUVuUOnsZLqD" target="_blank">
   <img src="https://shields.io" />
-  <img src="44.jpg" width="100" height="100" alt="(～﹃～)~zZ" />
+  <img src="https://github.com/user-attachments/assets/f2b6a138-5485-40ff-b824-fc2aaf008d83" width="100" height="100" alt="(～﹃～)~zZ" />
 </a>
