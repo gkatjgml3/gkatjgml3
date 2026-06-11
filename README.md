@@ -5,3 +5,6 @@
     <img src="https://github.com/user-attachments/assets/0336f0b9-e62b-4e9f-a3e7-36fa552c5e9b" width="300" height="300" alt="music" style="vertical-align: middle;" />
   </a>
 </p>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{gkatjgml3}?pet-id=1" width="1000" height="120"/>
+</a>
