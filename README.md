@@ -16,9 +16,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 매일 정해진 시간(한국 시간 기준 대략 오전 9시)에 자동으로 실행되도록 설정
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # 수동으로도 실행할 수 있게 설정
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -37,3 +37,4 @@ jobs:
           git add -A .
           git commit -m "Update 3D Contrib Graph" || exit 0
           git push
+</a>
