@@ -12,29 +12,3 @@
   height="300"
 />
 </a>
-
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: 
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Update 3D Contrib Graph" || exit 0
-          git push
-</a>
