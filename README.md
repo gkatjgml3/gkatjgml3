@@ -12,3 +12,28 @@
   height="300"
 />
 </a>
+
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 매일 정해진 시간(한국 시간 기준 대략 오전 9시)에 자동으로 실행되도록 설정
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 수동으로도 실행할 수 있게 설정
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update 3D Contrib Graph" || exit 0
+          git push
