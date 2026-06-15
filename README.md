@@ -9,8 +9,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkatjgml3&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/gkatjgml3?pet-id=854143326193039132"
-    width="300"
-    height="120"
+    width="800"
+    height="100"
   />
 </a>
   
