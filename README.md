@@ -11,5 +11,6 @@
   width="500"
   height="300"
 />
+  ![](profile-3d-contrib/profile-green-animate.svg)
+
 </a>
-![](profile-3d-contrib/profile-green-animate.svg)
