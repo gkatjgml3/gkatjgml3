@@ -5,12 +5,13 @@
     <img src="https://github.com/user-attachments/assets/0336f0b9-e62b-4e9f-a3e7-36fa552c5e9b" width="300" height="300" alt="music" style="vertical-align: middle;" />
   </a>
 </p>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkatjgml3&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/gkatjgml3"
-  width="500"
-  height="300"
-/>
- 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkatjgml3&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/gkatjgml3?pet-id=854143326193039132"
+    width="300"
+    height="120"
+  />
 </a>
+  
 
