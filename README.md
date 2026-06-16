@@ -1,3 +1,5 @@
+![배너](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=gkatjgml3&fontSize=70)
+
 <a href="https://youtu.be/btLRj_ueSeA?si=7lT4uoRaDOY3lGcw" target="_blank">
   <img src="https://github.com/user-attachments/assets/f2b6a138-5485-40ff-b824-fc2aaf008d83" width="300" height="300" alt="(～﹃～)~zZ" />
 </a>
