@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=000000&background=00000000&width=500&vCenter=true&lines=Hello!+welcome+to+My+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=700&size=36&pause=1000&color=000000&background=00000000&width=500&vCenter=true&lines=Hello!+welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
 <a href="https://youtu.be/btLRj_ueSeA?si=7lT4uoRaDOY3lGcw" target="_blank">
   <img src="https://github.com/user-attachments/assets/f2b6a138-5485-40ff-b824-fc2aaf008d83" width="300" height="300" alt="(～﹃～)~zZ" />
