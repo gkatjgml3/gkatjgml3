@@ -1,4 +1,4 @@
-![배너](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=HELLO!&fontSize=30)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=안녕하세요!+미림마이스터고등학교에+재학중인+gkatjgml3+입니다;점점+성장하고+있습니다.)](https://git.io/typing-svg)
 
 <a href="https://youtu.be/btLRj_ueSeA?si=7lT4uoRaDOY3lGcw" target="_blank">
   <img src="https://github.com/user-attachments/assets/f2b6a138-5485-40ff-b824-fc2aaf008d83" width="300" height="300" alt="(～﹃～)~zZ" />
