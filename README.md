@@ -15,5 +15,8 @@
     height="100"
   />
 </a>
-# 🎧 NOW PLAYING
-![Retro Player](https://github-readme-stats.vercel.com/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=36&pause=1000&color=000000&background=00000000&width=300&vCenter=true&lines=FILE.+INDEX.)](https://git.io/typing-svg)
+
+* **01 / MAIN TASK** : Frontend Development, UI/UX Design
+* **02 / CURRENT ATTENTION** : Deep Black Design, Brand Identity
+* **03 / CHANNELS** : [INSTAGRAM](gk0tjgml) · [GMAIL](mailto:jiijiijijijii@gmail.com)
