@@ -15,5 +15,7 @@
     height="100"
   />
 </a>
+## 🎧 NOW PLAYING
+[![Retro Player](https://github-readme-stats.vercel.com/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com)
   
 
