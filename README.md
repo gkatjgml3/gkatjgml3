@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=700&size=36&pause=1000&color=000000&background=00000000&width=500&vCenter=true&lines=Hello+welcome+to+My+GitHub...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=700&size=36&pause=1000&color=000000&background=00000000&width=500&vCenter=true&lines=Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="https://youtu.be/btLRj_ueSeA?si=7lT4uoRaDOY3lGcw" target="_blank">
@@ -14,4 +14,4 @@
 </a>
 <br>
 <br>
-<img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
