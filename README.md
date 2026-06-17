@@ -13,3 +13,5 @@
     height="100"
   />
 </a>
+<br>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white"/>
