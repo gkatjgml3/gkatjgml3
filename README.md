@@ -19,12 +19,3 @@
 <br>
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
-
-<br>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=36&pause=1000&color=000000&background=00000000&width=300&vCenter=true&lines=FILE.+INDEX.)](https://git.io/typing-svg)
-
-* **01 / MAIN TASK** : Frontend Development, UI/UX Design
-* **02 / CURRENT ATTENTION** : Deep Black Design, Brand Identity
-* **03 / CHANNELS** : [INSTAGRAM](gk0tjgml) · [GMAIL](mailto:jiijiijijijii@gmail.com)
