@@ -14,4 +14,4 @@
 </a>
 <br>
 <br>
-<img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
