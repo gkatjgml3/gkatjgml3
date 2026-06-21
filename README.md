@@ -17,12 +17,3 @@
   />
 </a>
 <br>
-<br>
-<div align="center">
-  <h2>♟️ 깃허브 프로필 체스 게임</h2>
-  <p>원하는 말을 클릭해서 이동 링크를 누르면 체스를 둘 수 있습니다!</p>
-  
-  <a href="https://github.com/gkatjgml3/gkatjgml3/issues/new?body=Please+do+not+change+anything+in+this+issue+description.+Just+click+on+%22Submit+new+issue%22+button" target="_blank">
-    <img src="https://raw.githubusercontent.com/gkatjgml3/gkatjgml3/chess-game/chess.svg" alt="Chess Game" />
-  </a>
-</div>
