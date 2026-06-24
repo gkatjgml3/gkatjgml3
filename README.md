@@ -10,10 +10,11 @@
 </p>
 <br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkatjgml3&utm_content=line">
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gkatjgml3&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/gkatjgml3?pet-id=854143326193039132"
-    width="700"
-    height="100"
+    width="500"
+    height="120"
   />
 </a>
-<br>
