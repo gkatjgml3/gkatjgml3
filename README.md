@@ -14,7 +14,7 @@
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gkatjgml3&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/gkatjgml3?pet-id=854143326193039132"
-    width="550"
+    width="580"
     height="120"
   />
 </a>
