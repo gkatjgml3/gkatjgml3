@@ -12,6 +12,6 @@
 <img
   src="https://render.gitanimals.org/farms/gkatjgml3"
   width="600"
-  height="200"
+  height="300"
 />
 </a>
