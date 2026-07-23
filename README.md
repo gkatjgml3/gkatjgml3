@@ -5,12 +5,15 @@
 <br><br>
 
 <table>
-<tr>
-
-<td width="60%" valign="top">
+  <tr>
+    <td width="52%" align="center" valign="middle">
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31unpxh2bi4b6dkbdf4yl62t63ui&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light"/>
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31unpxh2bi4b6dkbdf4yl62t63ui&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light"
+    width="360"
+    alt="Spotify"
+  />
 </a>
 
 <br><br>
@@ -23,19 +26,20 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </p>
 
-</td>
+  </td>
 
-<td width="40%">
-
-</td>
-
-</tr>
-</table>
-
-<br>
+  <td width="48%" align="center" valign="middle">
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gkatjgml3&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/gkatjgml3" width="760"/>
+  <img
+    src="https://render.gitanimals.org/farms/gkatjgml3"
+    width="340"
+    alt="GitAnimals"
+  />
 </a>
+
+  </td>
+  </tr>
+</table>
 
 </div>
