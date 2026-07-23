@@ -7,7 +7,7 @@
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 <a href="https://github.com/kittinan/spotify-github-profile">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31unpxh2bi4b6dkbdf4yl62t63ui&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light"/>
@@ -15,13 +15,12 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,figma&theme=light" height="36"/>
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,figma&theme=light" height="40"/>
 
 </td>
 
-<td width="45%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/gkatjgml3/gkatjgml3/output/github-contribution-grid-snake-dark.svg" width="300"/>
+<td width="40%">
 
 </td>
 
