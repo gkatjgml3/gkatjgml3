@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub..."/>
-
-<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=700&size=36&pause=1000&color=000000&background=00000000&width=500&vCenter=true&lines=Welcome+to+My+GitHub...)](https://git.io/typing-svg)
 
 <table>
 <tr>
