@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub."/>
-
-<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=700&size=36&pause=1000&color=000000&background=00000000&width=500&vCenter=true&lines=Welcome+to+My+GitHub...)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -29,16 +25,14 @@
   </td>
 
   <td width="48%" align="center" valign="middle">
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gkatjgml3&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/gkatjgml3"
-    width="340"
-    alt="GitAnimals"
-  />
-</a>
-
   </td>
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gkatjgml3&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/gkatjgml3"
+  width="300"
+  height="600"
+/>
+</a>
   </tr>
 </table>
 
