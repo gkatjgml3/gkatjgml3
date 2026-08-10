@@ -45,4 +45,3 @@
 </tr>
 </table>
 
-<img src="./assets/readme-banner.svg" width="100%" alt="배너">
